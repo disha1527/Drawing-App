@@ -13,3 +13,5 @@
 <p>This app is built with HTML5 Canvas and vanilla JavaScript, providing clean, framework-free code and optimized performance for all screen sizes.</p>
 
 Live Demo: https://disha1527.github.io/Drawing-App/
+
+![screencapture-disha1527-github-io-Drawing-App-2025-03-22-22_31_09](https://github.com/user-attachments/assets/8f450a53-d706-4d99-af92-a3564280e273)
